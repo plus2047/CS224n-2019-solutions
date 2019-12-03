@@ -18,6 +18,19 @@ The solutions for assignment is written by **Markdown** in [Assignments/written 
 部分答案有缺失，紧急补课中···     -->
 ***
 
+## Update
+
+## update 2019/12/03
+
+&emsp;&emsp;After CS224n I realize that more systematical training is needed. So I start a new repo [learn_NLP_again](https://github.com/ZacBi/learn_NLP_again), here is the description(algorithms and solutions is available for chapter 1 until now):
+
+> &emsp;&emsp;Here is why I started this project: **learn NLP from scratch again**. I choose [Speech and language process](https://web.stanford.edu/~jurafsky/slp3/) as my entry point, and try to write solutions and implement some algorithms/models of this book. I hope I can stick to this project and update frequently.
+
+&emsp;&emsp;After one year's training in corporation and lab, I find many faults or incorrect habbits in past parctice, (btw, there is too many commits in this repo). I'll review the code in this repo and solve issues gradually.(:smile:, hopefully)
+
+**Welcome communications in new repo!**
+
+
 ## w1
 
 ### reading
